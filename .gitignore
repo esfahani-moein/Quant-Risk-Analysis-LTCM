@@ -1,0 +1,21 @@
+
+dataset/
+
+# Python cache files and bytecode
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# pytest cache
+.pytest_cache/
+
+
+# Virtual environment folders
+venv/
+.venv/
+.env/
+
+.DS_Store
